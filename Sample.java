@@ -15,4 +15,12 @@ public class Sample {
         return 0;
     }
 
+    public int mult(int a, int b) {
+        return a * b;
+    }
+
+    public float sqrtBad(int a) {
+        return Math.sqrt(x);
+    }
+
 }
